@@ -66,8 +66,8 @@ if response.status_code == 200:
 
         # Process tags
         tags = []
-        for tag in rawTags:
-            tags.append('#' + tag)
+        for nowTag in rawTags:
+            tags.append('#' + nowTag)
 
         print('    Found a post!')
 
