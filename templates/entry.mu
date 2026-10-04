@@ -1,0 +1,3 @@
+{{title}}
+{{date}} — {{prev}}`...
+`_`[Open`:/page/{{link}}]`_

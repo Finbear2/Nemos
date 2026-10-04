@@ -1,0 +1,26 @@
+{
+    "url": "https://memos.example.com",
+    "tag": "blog",
+    "output": "blog",
+    "styling": {
+        "boldStart": "`!",
+        "boldEnd": "`!",
+        "italicStart": "`*",
+        "italicEnd": "`*",
+        "underlineStart": "`_",
+        "underlineEnd": "`_",
+        "inlineCodeStart": "`*",
+        "inlineCodeEnd": "`*",
+        "linkStart": "`_(",
+        "linkCloseStart": ")[",
+        "linkCloseEnd": "]`_",
+        "imageStart": "`!",
+        "imageEnd": "`!",
+        "heading": ">",
+        "bullet": "•",
+        "hr": "---",
+        "codeStart": "`B000`F0f0",
+        "codeEnd": "``\n",
+        "codeLanguagePlaceholder": "text"
+    }
+}
